@@ -3,7 +3,7 @@ package com.ivanova;
 import java.util.concurrent.TimeUnit;
 
 /**
- * Created by admin on 26.04.2018.
+ * Created by Slava on 26.04.2018.
  */
 
 public class Deadlock {
